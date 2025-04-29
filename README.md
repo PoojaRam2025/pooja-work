@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello! I'm Pooja
 
-<!--
-**pooja-work/pooja-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **motivated first-year Computer Science Engineering student** with a strong passion for **innovation** and **real-world problem-solving**. Below are some of my key achievements and ongoing learning experiences.
 
-Here are some ideas to get you started:
+## 💼 About Me
+- 🎓 **First-Year CSE Student**
+- 🌱 Currently exploring **AI**, **Software Development**, and **Social-Impact Tech Solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects & Competitions
+- 🏆 **Women’s Safety Project**: Presented at the **8th International Conference on Emerging Trends in Engineering and Management (PHOENIXES)**  
+- 🧠 **Intra-Institutional Innovation Competition (IDEATHON)**: Participated in innovation and problem-solving projects
+- 🏅 **3rd Place** in a **Mathematics Paper Presentation**
+
+## 🏆 Achievements & Certifications
+- 🎓 **Pursuing Certifications in**:
+  - **Python**, **SQL**, and **Web Design Enhancement** via **Infosys Springboard**
+  - 🌐 **AWS Workshop** (Exploring Cloud Technologies)
+  - **Learning**: **HTML**, **CSS**, and **JavaScript** through **Infosys**
+
+## 🔧 Skills & Interests
+- **Programming Languages**: Python, SQL, HTML, CSS, JavaScript
+- **Technologies**: Cloud Computing, AI, Web Development
+- **Interest Areas**: Social Impact Solutions, Innovation, Problem-Solving
+
+## 🔗 Connect With Me
+- ✉️ **Email**: [rpooja6905@gmail.com](mailto:rpooja6905@gmail.com)
+- 🌐 **Website**: [Women Safety Project](https://smartsafetydefender.netlify.app)
+
