@@ -55,7 +55,6 @@ Welcome to my GitHub profile! I'm a motivated **2nd-year Computer Science Engine
 ## 🔗 Connect With Me  
 📧 **Email:** [rpooja6905@gmail.com](mailto:rpooja6905@gmail.com)  
 🔗 **LinkedIn:** [Pooja Ramachandran](https://www.linkedin.com/in/pooja-ramachandran-09a400324)  
-📁 **GitHub Repos:** Check out my project folders for live demos and code.
 
 ---
 
